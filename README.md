@@ -1,3 +1,11 @@
+# Hi 👋, I'm Souvik Roy
+### A Software Engineer
+
+- 🔭 I'm currently working on **SPRING FRAMEWORK & SPRING BOOT**
+
+- 🌱 I'm currently learning **SPRING BOOT**
+
+
 # 💫 About Me:
 JAVA, SPRING FRAMEWORK & SPRING BOOT, SQL 
 
